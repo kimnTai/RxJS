@@ -1,0 +1,16 @@
+{
+  "name": "0305",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^7.5.4",
+    "vite": "^2.8.6"
+  }
+}
